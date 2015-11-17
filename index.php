@@ -408,6 +408,7 @@ Email:okoadocs@info.com
 </div>
 
 <!--end small modal-->
+<!--end small modal-->
  
 		<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
 	<!--//smooth-scrolling-of-move-up
